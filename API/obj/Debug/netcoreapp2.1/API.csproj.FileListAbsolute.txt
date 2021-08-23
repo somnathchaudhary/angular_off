@@ -1,0 +1,14 @@
+D:\Practice\dotNetProject\datingapp\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\Practice\dotNetProject\datingapp\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\Practice\dotNetProject\datingapp\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\Practice\dotNetProject\datingapp\API\bin\Debug\netcoreapp2.1\API.dll
+D:\Practice\dotNetProject\datingapp\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.dll
+D:\Practice\dotNetProject\datingapp\API\obj\Debug\netcoreapp2.1\API.pdb
